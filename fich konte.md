@@ -1,9 +1,11 @@
+adrèc.
+
+alèrji.
+
+kokon.
+
+non.
+
 numéro.
 
-cocon.
-
-nom.
-
-adresse.
-
-allergies.
+voyaj.
