@@ -9,3 +9,5 @@ vo coté :
 - coté à goch.
 
 - coté à droat.
+
+dégénaj.
