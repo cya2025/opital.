@@ -1,15 +1,11 @@
-# compter.
+vo konté de 1 à 100.
 
-1. comptez de 1 jusqu'à 100.
+vo coté :
 
-# sauter.
+- coté à deven.
 
-1. sautez en avant.
+- coté à dèrièr.
 
-2. sautez en arrière.
+- coté à goch.
 
-3. sautez à gauche.
-
-4. sautez à droite.
-
-conseil : ne sauter pas pour rien.
+- coté à droat.
